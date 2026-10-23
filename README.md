@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
@@ -774,3 +775,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+=======
+# ACM-W-GCOERC-Website-
+ACM-W GCOERC is a responsive website built to showcase the ACM-W student chapter, its events, initiatives, and activities. It promotes women in computing by highlighting opportunities for technical learning, collaboration, mentorship, and innovation through a modern, user-friendly interface.
+>>>>>>> cea5199962cb0fb3d822bf92e51bb0c5faec3303
